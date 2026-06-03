@@ -133,9 +133,7 @@ A little chaotic, but still readable
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaymade&show_icons=true&hide_border=true&title_color=F696B3&text_color=E5E6E1&icon_color=DD1440&bg_color=241929" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaymade&layout=compact&hide_border=true&title_color=F696B3&text_color=E5E6E1&bg_color=241929" />
+<img src="https://streak-stats.demolab.com?user=kaymade&hide_border=true&background=241929&ring=DD1440&fire=F696B3&currStreakLabel=F696B3&sideLabels=E5E6E1&dates=E5E6E1&sideNums=E5E6E1&currStreakNum=E5E6E1" />
 
 </div>
 
