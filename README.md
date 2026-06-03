@@ -17,9 +17,9 @@
 
 ## About Me
 
-Hi, I’m K. S. H., a self-taught developer building creative web projects with HTML, CSS, JavaScript, and a lot of trial and error.
+Hi, I’m Kay, a self-taught developer building creative web projects with HTML, CSS, JavaScript, and a lot of trial and error.
 
-I’m focused on creating projects that feel useful, polished, personal, and a little chaotic-cute. I’m currently building my front-end skills through real projects, community tools, and portfolio pieces.
+I’m focused on creating projects that feel useful, polished, personal, and a little chaotic & cute. I’m currently building my front-end skills through real projects, community tools, and portfolio pieces.
 
 I’m also the founder of Syntax Studio, a coding-focused Discord community for beginners, learners, and developers who want a supportive place to ask questions, share progress, and build projects.
 
@@ -133,11 +133,9 @@ A little chaotic, but still readable
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaymade&show_icons=true&hide_border=true&title_color=F696B3&text_color=E5E6E1&icon_color=DD1440&bg_color=241929" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaymade&show_icons=true&hide_border=true&title_color=F696B3&text_color=E5E6E1&icon_color=DD1440&bg_color=241929" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaymade&layout=compact&hide_border=true&title_color=F696B3&text_color=E5E6E1&bg_color=241929" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaymade&layout=compact&hide_border=true&title_color=F696B3&text_color=E5E6E1&bg_color=241929" />
 
 </div>
 
