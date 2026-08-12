@@ -110,9 +110,8 @@ Learning how to organize larger multi-page projects
 <pre>
 HTML          ██████████
 CSS           ██████████
-JavaScript    █████░░░░░
-DOM           ████░░░░░░
-React         ░░░░░░░░░░
+JavaScript    ████████░░
+React         ███░░░░░░░
 </pre>
 
 ---
@@ -121,10 +120,10 @@ React         ░░░░░░░░░░
 
 <pre>
 Creative but functional
-Cute but organized
-Beginner-friendly but intentional
+Playful but structured
+Design-forward but technically grounded
 Personal but polished
-A little chaotic, but still readable
+Experimental but intentional
 </pre>
 
 ---
@@ -141,17 +140,18 @@ A little chaotic, but still readable
 
 ## Syntax Studio
 
-Syntax Studio is a beginner-friendly coding community focused on learning, project building, resource sharing, and progress over perfection.
+Syntax Studio is a programming & coding community focused on learning, project building, resource sharing, and progress over perfection.
 
 The goal is to create a space where people can ask questions, share projects, find resources, and keep going even when learning code feels confusing.
 
 <pre>
-Study support
-Project feedback
-Resource sharing
-Beginner questions
-Portfolio building
-Weekly progress
+Community Projects
+Study Support
+Project Feedback
+Resource Sharing
+Question Help
+Portfolio Building
+Progress Check-Ins
 </pre>
 
 ---
