@@ -94,7 +94,7 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 
 ## Tech Stack
 
-<div align="center">
+<div>
 
 <strong>Core Front-End</strong>
 
