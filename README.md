@@ -98,29 +98,19 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 
 <strong>Core Front-End</strong>
 
-<br><br>
-
 ![HTML5](https://img.shields.io/badge/HTML5-241929?style=flat-square&logo=html5&logoColor=F696B3)
 ![CSS3](https://img.shields.io/badge/CSS3-5A4864?style=flat-square&logo=css3&logoColor=E5E6E1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DD1440?style=flat-square&logo=javascript&logoColor=E5E6E1)
 ![React](https://img.shields.io/badge/React-840B2A?style=flat-square&logo=react&logoColor=E5E6E1)
 
-<br><br>
-
 <strong>Tools & Workflow</strong>
-
-<br><br>
 
 ![Git](https://img.shields.io/badge/Git-241929?style=flat-square&logo=git&logoColor=F696B3)
 ![GitHub](https://img.shields.io/badge/GitHub-5A4864?style=flat-square&logo=github&logoColor=E5E6E1)
 ![VS Code](https://img.shields.io/badge/VS_Code-DD1440?style=flat-square&logo=visualstudiocode&logoColor=E5E6E1)
 ![Jest](https://img.shields.io/badge/Jest-840B2A?style=flat-square&logo=jest&logoColor=E5E6E1)
 
-<br><br>
-
 <strong>Currently Working With</strong>
-
-<br><br>
 
 ![Next.js](https://img.shields.io/badge/Next.js-241929?style=flat-square&logo=nextdotjs&logoColor=F696B3)
 ![Node.js](https://img.shields.io/badge/Node.js-5A4864?style=flat-square&logo=nodedotjs&logoColor=E5E6E1)
@@ -128,7 +118,6 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-840B2A?style=flat-square&logo=githubpages&logoColor=E5E6E1)
 
 </div>
----
 
 ## Project Style
 
