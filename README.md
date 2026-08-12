@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/css-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
 ![JavaScript](https://img.shields.io/badge/javascript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
 ![GitHub](https://img.shields.io/badge/github-840B2A?style=for-the-badge&logo=github&logoColor=E5E6E1)
-![React](https://img.shields.io/badge/React-5A4864?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-5A4864?style=flat-square&logo=react&logoColor=E5E6E1)
 
 </div>
 
