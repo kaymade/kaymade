@@ -10,6 +10,7 @@
 ![CSS](https://img.shields.io/badge/css-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
 ![JavaScript](https://img.shields.io/badge/javascript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
 ![GitHub](https://img.shields.io/badge/github-840B2A?style=for-the-badge&logo=github&logoColor=E5E6E1)
+![React](https://img.shields.io/badge/React-5A4864?style=flat-square&logo=react&logoColor=61DAFB)
 
 </div>
 
@@ -17,22 +18,23 @@
 
 ## About Me
 
-Hi, I’m Kay, a self-taught developer building creative web projects with HTML, CSS, JavaScript, and a lot of trial and error.
+Hi, I’m Kay, a self-taught front-end developer building design-forward, accessible web experiences with HTML, CSS, JavaScript, and React.
 
-I’m focused on creating projects that feel useful, polished, personal, and a little chaotic & cute. I’m currently building my front-end skills through real projects, community tools, and portfolio pieces.
+I enjoy turning playful visual concepts into functional interfaces, customization tools, and community resources. My recent work includes component-based UI development, API integration, theme systems, testing, and open-source collaboration.
 
-I’m also the founder of Syntax Studio, a coding-focused Discord community for beginners, learners, and developers who want a supportive place to ask questions, share progress, and build projects.
+I'm also the founder of Syntax Studio, a programming community where developers can study, share progress, and build alongside one another.
 
 ---
 
 ## Current Focus
 
 <pre>
-Building real projects instead of only following tutorials
-Improving JavaScript confidence through small interactive apps
-Creating useful tools for Syntax Studio and other learners
-Developing a stronger front-end portfolio
-Learning how to organize larger multi-page projects
+- Building component-based interfaces with React
+- Creating accessible, responsive, design-forward experiences
+- Connecting frontend interfaces to APIs and persistent state
+- Developing stronger testing and code-quality practices
+- Contributing to shared open-source projects
+- Building resources and tools for Syntax Studio
 </pre>
 
 ---
@@ -41,20 +43,20 @@ Learning how to organize larger multi-page projects
 
 <table>
   <tr>
-    <td><strong>JavaScript</strong></td>
-    <td>Functions, arrays, objects, loops, DOM manipulation, events, and user interaction</td>
+    <td><strong>React</strong></td>
+    <td>Components, props, state, hooks, controlled forms, and conditional rendering.</td>
   </tr>
   <tr>
-    <td><strong>Front-End Development</strong></td>
-    <td>Responsive layouts, accessible structure, reusable components, and project organization</td>
+    <td><strong>Front-End Applications</strong></td>
+    <td>API integration, persistent state, responsive UI, and accessibility</td>
   </tr>
   <tr>
-    <td><strong>GitHub + Deployment</strong></td>
-    <td>GitHub Pages, repositories, README files, version control habits, and public project presentation</td>
+    <td><strong>Testing & Quality</strong></td>
+    <td>Jest, React Testing Library, Supertest, linting, and production builds</td>
   </tr>
   <tr>
-    <td><strong>Community Projects</strong></td>
-    <td>Resource libraries, beginner-friendly tools, documentation, and shared learning spaces</td>
+    <td><strong>Open-Source Collaboration</strong></td>
+    <td>Forks, upstream remotes, branches, pull requests, reviews, and conflict resolution</td>
   </tr>
 </table>
 
@@ -65,16 +67,18 @@ Learning how to organize larger multi-page projects
 <table>
   <tr>
     <td width="50%">
-      <h3>Portfolio Landing Page</h3>
-      <p>A creative personal landing page focused on layout, visual identity, navigation, and presenting early front-end work.</p>
-      <a href="https://kaymade.github.io">
+      <h3>Alice Velvet</h3>
+      <p>A whimsical and unique theme for Obsidian that draws inspiration from Alice in Wonderland.</p>
+      <a href="https://kaymade.github.io](https://github.com/kaymade/alice-velvet">
         <img src="https://img.shields.io/badge/view_project-241929?style=for-the-badge&logo=githubpages&logoColor=F696B3" />
       </a>
     </td>
     <td width="50%">
-      <h3>Learning Dashboard</h3>
-      <p>A themed dashboard project built to track coding progress, organize learning goals, and practice visual hierarchy.</p>
-      <img src="https://img.shields.io/badge/html_%2B_css-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1" />
+      <h3>Syntax Studio Resource Library</h3>
+      <p>A searchable resource library for coding learners, organized by topic, level, resource type, and tags.</p>
+       <a href="https://kaymade.github.io/resource-library">
+        <img src="https://img.shields.io/badge/view_library-DD1440?style=for-the-badge&logo=githubpages&logoColor=E5E6E1" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -82,13 +86,6 @@ Learning how to organize larger multi-page projects
       <h3>Myth and Mana</h3>
       <p>A fantasy-inspired editorial layout project exploring atmosphere, grid structure, themed sections, and creative direction.</p>
       <img src="https://img.shields.io/badge/editorial_layout-840B2A?style=for-the-badge&logo=readme&logoColor=E5E6E1" />
-    </td>
-    <td width="50%">
-      <h3>Syntax Studio Resource Library</h3>
-      <p>A searchable resource library for coding learners, organized by topic, level, resource type, and tags.</p>
-      <a href="https://kaymade.github.io/resource-library">
-        <img src="https://img.shields.io/badge/view_library-DD1440?style=for-the-badge&logo=githubpages&logoColor=E5E6E1" />
-      </a>
     </td>
   </tr>
 </table>
