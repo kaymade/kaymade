@@ -174,47 +174,6 @@ Weekly progress
 
 ---
 
-## Palette
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://placehold.co/120x60/241929/E5E6E1?text=%23241929" />
-      <br>
-      Onyx
-    </td>
-    <td align="center">
-      <img src="https://placehold.co/120x60/5A4864/E5E6E1?text=%235A4864" />
-      <br>
-      Wineshade
-    </td>
-    <td align="center">
-      <img src="https://placehold.co/120x60/E5E6E1/241929?text=%23E5E6E1" />
-      <br>
-      Gin Tonic
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://placehold.co/120x60/F696B3/241929?text=%23F696B3" />
-      <br>
-      False Goat's Beard
-    </td>
-    <td align="center">
-      <img src="https://placehold.co/120x60/DD1440/E5E6E1?text=%23DD1440" />
-      <br>
-      Red Suits
-    </td>
-    <td align="center">
-      <img src="https://placehold.co/120x60/840B2A/E5E6E1?text=%23840B2A" />
-      <br>
-      Claret
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:241929,50:840B2A,100:DD1440&section=footer&text=building%20one%20project%20at%20a%20time%20%E2%9C%A6&fontColor=E5E6E1&fontSize=22" />
