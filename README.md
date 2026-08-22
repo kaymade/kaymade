@@ -9,8 +9,10 @@
 ![HTML](https://img.shields.io/badge/html-241929?style=for-the-badge&logo=html5&logoColor=F696B3)
 ![CSS](https://img.shields.io/badge/css-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
 ![JavaScript](https://img.shields.io/badge/javascript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
-![GitHub](https://img.shields.io/badge/github-840B2A?style=for-the-badge&logo=github&logoColor=E5E6E1)
+![TypeScript](https://img.shields.io/badge/typescript-840B2A?style=for-the-badge&logo=typescript&logoColor=E5E6E1)
 ![React](https://img.shields.io/badge/react-241929?style=for-the-badge&logo=react&logoColor=F696B3)
+![PostgreSQL](https://img.shields.io/badge/postgresql-5A4864?style=for-the-badge&logo=postgresql&logoColor=E5E6E1)
+![GitHub](https://img.shields.io/badge/github-DD1440?style=for-the-badge&logo=github&logoColor=E5E6E1)
 
 </div>
 
@@ -18,9 +20,9 @@
 
 ## About Me
 
-Hi, I’m Kay, a self-taught front-end developer building design-forward, accessible web experiences with HTML, CSS, JavaScript, and React.
+Hi, I’m Kay, a self-taught front-end developer building design-forward, accessible web experiences with HTML, CSS, JavaScript, TypeScript, and React.
 
-I enjoy turning playful visual concepts into functional interfaces, customization tools, and community resources. My recent work includes component-based UI development, API integration, theme systems, testing, and open-source collaboration.
+I enjoy turning playful visual concepts into functional interfaces, customization tools, and community resources. My recent work includes component-based UI development, API integration, theme systems, testing, databases, and open-source collaboration.
 
 I'm also the founder of Syntax Studio, a programming community where developers can study, share progress, and build alongside one another.
 
@@ -29,9 +31,9 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 ## Current Focus
 
 <pre>
-- Building component-based interfaces with React
+- Building component-based interfaces with React and TypeScript
 - Creating accessible, responsive, design-forward experiences
-- Connecting frontend interfaces to APIs and persistent state
+- Connecting frontend interfaces to APIs, databases, and persistent state
 - Developing stronger testing and code-quality practices
 - Contributing to shared open-source projects
 - Building resources and tools for Syntax Studio
@@ -43,20 +45,20 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 
 <table>
   <tr>
-    <td><strong>React</strong></td>
-    <td>Components, props, state, hooks, controlled forms, and conditional rendering.</td>
+    <td><strong>React & TypeScript</strong></td>
+    <td>Components, props, state, hooks, controlled forms, typing patterns, and conditional rendering.</td>
   </tr>
   <tr>
     <td><strong>Front-End Applications</strong></td>
-    <td>API integration, persistent state, responsive UI, and accessibility</td>
+    <td>API integration, persistent state, responsive UI, and accessibility.</td>
   </tr>
   <tr>
     <td><strong>Testing & Quality</strong></td>
-    <td>Jest, React Testing Library, Supertest, linting, and production builds</td>
+    <td>Jest, React Testing Library, Supertest, linting, formatting, and production builds.</td>
   </tr>
   <tr>
     <td><strong>Open-Source Collaboration</strong></td>
-    <td>Forks, upstream remotes, branches, pull requests, reviews, and conflict resolution</td>
+    <td>Forks, upstream remotes, branches, pull requests, reviews, and conflict resolution.</td>
   </tr>
 </table>
 
@@ -76,7 +78,7 @@ I'm also the founder of Syntax Studio, a programming community where developers 
     <td width="50%">
       <h3>Syntax Studio Resource Library</h3>
       <p>A searchable resource library for coding learners, organized by topic, level, resource type, and tags.</p>
-       <a href="https://kaymade.github.io/resource-library">
+      <a href="https://kaymade.github.io/resource-library">
         <img src="https://img.shields.io/badge/view_library-DD1440?style=for-the-badge&logo=githubpages&logoColor=E5E6E1" />
       </a>
     </td>
@@ -86,6 +88,13 @@ I'm also the founder of Syntax Studio, a programming community where developers 
       <h3>Myth and Mana</h3>
       <p>A fantasy-inspired editorial layout project exploring atmosphere, grid structure, themed sections, and creative direction.</p>
       <img src="https://img.shields.io/badge/editorial_layout-840B2A?style=for-the-badge&logo=readme&logoColor=E5E6E1" />
+    </td>
+    <td width="50%">
+      <h3>cosmic</h3>
+      <p>A colorful, customizable theme for Obsidian inspired by painted night skies, featuring coordinated light and dark modes, seven color schemes, and extensive Style Settings customization.</p>
+      <a href="https://github.com/kaymade/cosmic">
+        <img src="https://img.shields.io/badge/view_project-5A4864?style=for-the-badge&logo=obsidian&logoColor=F696B3" />
+      </a>
     </td>
   </tr>
 </table>
@@ -99,7 +108,14 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 ![HTML5](https://img.shields.io/badge/HTML5-241929?style=for-the-badge&logo=html5&logoColor=F696B3)
 ![CSS3](https://img.shields.io/badge/CSS3-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
-![React](https://img.shields.io/badge/React-840B2A?style=for-the-badge&logo=react&logoColor=E5E6E1)
+![TypeScript](https://img.shields.io/badge/TypeScript-840B2A?style=for-the-badge&logo=typescript&logoColor=E5E6E1)
+![React](https://img.shields.io/badge/React-241929?style=for-the-badge&logo=react&logoColor=F696B3)
+
+### Database & Back-End
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5A4864?style=for-the-badge&logo=postgresql&logoColor=E5E6E1)
+![Node.js](https://img.shields.io/badge/Node.js-DD1440?style=for-the-badge&logo=nodedotjs&logoColor=E5E6E1)
+![Express](https://img.shields.io/badge/Express-840B2A?style=for-the-badge&logo=express&logoColor=E5E6E1)
 
 ### Tools & Workflow
 
@@ -111,9 +127,8 @@ I'm also the founder of Syntax Studio, a programming community where developers 
 ### Currently Working With
 
 ![Next.js](https://img.shields.io/badge/Next.js-241929?style=for-the-badge&logo=nextdotjs&logoColor=F696B3)
-![Node.js](https://img.shields.io/badge/Node.js-5A4864?style=for-the-badge&logo=nodedotjs&logoColor=E5E6E1)
-![Express](https://img.shields.io/badge/Express-DD1440?style=for-the-badge&logo=express&logoColor=E5E6E1)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-840B2A?style=for-the-badge&logo=githubpages&logoColor=E5E6E1)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-5A4864?style=for-the-badge&logo=testinglibrary&logoColor=E5E6E1)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-DD1440?style=for-the-badge&logo=githubpages&logoColor=E5E6E1)
 
 ---
 
@@ -169,7 +184,17 @@ Progress Check-Ins
   <img src="https://img.shields.io/badge/resource_library-840B2A?style=for-the-badge&logo=bookstack&logoColor=E5E6E1" />
 </a>
 
-<img src="https://img.shields.io/badge/discord-sagacloud-5A4864?style=for-the-badge&logo=discord&logoColor=E5E6E1" />
+<a href="https://kaymade.substack.com/">
+  <img src="https://img.shields.io/badge/localhost-DD1440?style=for-the-badge&logo=substack&logoColor=E5E6E1" />
+</a>
+
+<a href="https://discord.gg/PZh2z5Vwaw">
+  <img src="https://img.shields.io/badge/syntax_studio-5A4864?style=for-the-badge&logo=discord&logoColor=E5E6E1" />
+</a>
+
+<a href="https://www.instagram.com/kaymade.dev/">
+  <img src="https://img.shields.io/badge/@kaymade.dev-241929?style=for-the-badge&logo=instagram&logoColor=F696B3" />
+</a>
 
 </div>
 
