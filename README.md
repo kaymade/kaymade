@@ -81,13 +81,16 @@ I developed systems for lead and customer management, service workflows, schedul
 
 ### History Heroes
 
-Collaborative full-stack application developed during the freeCodeCamp Summer 2026 cohort.
+Collaborative full-stack application developed during the freeCodeCamp Summer 2026 Cohort.
 
-I served as team lead and developer, working across a React/TypeScript frontend and Node.js/TypeScript backend architecture. My work included implementation planning, responsive UI, application behavior, testing, pull-request review, issue decomposition, and coordinating development across a multi-person team.
+**Role:** Team Lead + Developer
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Node.js · NestJS · Vitest · Git/GitHub
+- Led a seven-person development team through requirements, issue planning, implementation, and code review
+- Contributed to a TypeScript full-stack application with separate client and server architecture
+- Reviewed pull requests and coordinated work across contributors
+- Worked with testing, database configuration, production builds, and collaborative Git workflows
 
-[View project details](https://kaymade.github.io/projects.html)
+**Technologies:** TypeScript · React · Node.js · Git · GitHub · automated testing
 
 ---
 
