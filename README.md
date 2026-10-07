@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:241929,45:840B2A,100:DD1440&text=K.%20S.%20H.&fontColor=E5E6E1&fontSize=72&desc=self-taught%20developer%20%7C%20creative%20web%20projects%20%7C%20founder%20of%20syntax%20studio&descColor=F696B3&descSize=16&descAlignY=78" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:241929,45:840B2A,100:DD1440&text=K.%20S.%20H.&fontColor=E5E6E1&fontSize=72&desc=software%20developer%20%7C%20web%20applications%20%7C%20databases%20%26%20integrations&descColor=F696B3&descSize=16&descAlignY=78" />
 
 </div>
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/html-241929?style=for-the-badge&logo=html5&logoColor=F696B3)
-![CSS](https://img.shields.io/badge/css-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
-![JavaScript](https://img.shields.io/badge/javascript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
 ![TypeScript](https://img.shields.io/badge/typescript-840B2A?style=for-the-badge&logo=typescript&logoColor=E5E6E1)
 ![React](https://img.shields.io/badge/react-241929?style=for-the-badge&logo=react&logoColor=F696B3)
+![JavaScript](https://img.shields.io/badge/javascript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-5A4864?style=for-the-badge&logo=postgresql&logoColor=E5E6E1)
-![GitHub](https://img.shields.io/badge/github-DD1440?style=for-the-badge&logo=github&logoColor=E5E6E1)
+![Supabase](https://img.shields.io/badge/supabase-241929?style=for-the-badge&logo=supabase&logoColor=F696B3)
+![NestJS](https://img.shields.io/badge/nestjs-DD1440?style=for-the-badge&logo=nestjs&logoColor=E5E6E1)
 
 </div>
 
@@ -20,155 +19,132 @@
 
 ## About Me
 
-Hi, I’m Kay, a self-taught front-end developer building design-forward, accessible web experiences with HTML, CSS, JavaScript, TypeScript, and React.
+Hi, I'm Kay — a software developer building web applications, internal tools, and polished user experiences.
 
-I enjoy turning playful visual concepts into functional interfaces, customization tools, and community resources. My recent work includes component-based UI development, API integration, theme systems, testing, databases, and open-source collaboration.
+My work spans frontend development, databases, APIs, authentication, third-party integrations, testing, and production business tooling. I enjoy taking real-world problems from requirements through implementation and turning them into software that is useful, maintainable, and thoughtfully designed.
 
-I'm also the founder of Syntax Studio, a programming community where developers can study, share progress, and build alongside one another.
+I've built and maintained production software for a real business, worked with relational data and backend services, integrated external platforms and APIs, contributed React and TypeScript code to collaborative applications, reviewed pull requests, and published open-source projects used by the Obsidian community.
 
----
-
-## Current Focus
-
-<pre>
-- Building component-based interfaces with React and TypeScript
-- Creating accessible, responsive, design-forward experiences
-- Connecting frontend interfaces to APIs, databases, and persistent state
-- Developing stronger testing and code-quality practices
-- Contributing to shared open-source projects
-- Building resources and tools for Syntax Studio
-</pre>
+My background in organizational leadership and client-facing work also shapes how I approach development: understand the problem first, communicate clearly, document decisions, and build for the people who actually have to use the software.
 
 ---
 
-## Currently Learning
+## Technical Skills
 
 <table>
   <tr>
-    <td><strong>React & TypeScript</strong></td>
-    <td>Components, props, state, hooks, controlled forms, typing patterns, and conditional rendering.</td>
+    <td><strong>Languages</strong></td>
+    <td>JavaScript, TypeScript, HTML5, CSS3, SQL</td>
   </tr>
   <tr>
-    <td><strong>Front-End Applications</strong></td>
-    <td>API integration, persistent state, responsive UI, and accessibility.</td>
+    <td><strong>Frontend</strong></td>
+    <td>React, Vite, Tailwind CSS, DaisyUI, responsive design, accessibility</td>
+  </tr>
+  <tr>
+    <td><strong>Back-End</strong></td>
+    <td>Node.js, NestJS, REST APIs, Supabase Edge Functions</td>
+  </tr>
+  <tr>
+    <td><strong>Data & Services</strong></td>
+    <td>PostgreSQL, Supabase, authentication, Row Level Security, database migrations</td>
   </tr>
   <tr>
     <td><strong>Testing & Quality</strong></td>
-    <td>Jest, React Testing Library, Supertest, linting, formatting, and production builds.</td>
+    <td>Vitest, Jest, React Testing Library, linting, formatting, code review</td>
   </tr>
   <tr>
-    <td><strong>Open-Source Collaboration</strong></td>
-    <td>Forks, upstream remotes, branches, pull requests, reviews, and conflict resolution.</td>
+    <td><strong>Tools & Deployment</strong></td>
+    <td>Git, GitHub, Docker, Netlify, VS Code, CI workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Integrations</strong></td>
+    <td>Stripe, Resend, Google Calendar APIs, third-party REST APIs</td>
   </tr>
 </table>
 
 ---
 
-## Featured Projects
+## Featured Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Alice Velvet</h3>
-      <p>A whimsical and unique theme for Obsidian that draws inspiration from Alice in Wonderland.</p>
-      <a href="https://kaymade.github.io">
-        <img src="https://img.shields.io/badge/view_project-241929?style=for-the-badge&logo=githubpages&logoColor=F696B3" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>Syntax Studio Resource Library</h3>
-      <p>A searchable resource library for coding learners, organized by topic, level, resource type, and tags.</p>
-      <a href="https://kaymade.github.io/resource-library">
-        <img src="https://img.shields.io/badge/view_library-DD1440?style=for-the-badge&logo=githubpages&logoColor=E5E6E1" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Myth and Mana</h3>
-      <p>A fantasy-inspired editorial layout project exploring atmosphere, grid structure, themed sections, and creative direction.</p>
-      <img src="https://img.shields.io/badge/editorial_layout-840B2A?style=for-the-badge&logo=readme&logoColor=E5E6E1" />
-    </td>
-    <td width="50%">
-      <h3>cosmic</h3>
-      <p>A colorful, customizable theme for Obsidian inspired by painted night skies, featuring coordinated light and dark modes, seven color schemes, and extensive Style Settings customization.</p>
-      <a href="https://github.com/kaymade/cosmic">
-        <img src="https://img.shields.io/badge/view_project-5A4864?style=for-the-badge&logo=obsidian&logoColor=F696B3" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Golden Years Tech Help
+
+Production website and custom staff CRM built for a senior technology-support business.
+
+I developed systems for lead and customer management, service workflows, scheduling, payments, email tooling, audit history, and calendar integration. The project involved relational data modeling, authentication and authorization, PostgreSQL Row Level Security, database migrations, serverless functions, external APIs, deployment, and operational documentation.
+
+**Stack:** JavaScript · PostgreSQL · Supabase · Edge Functions · Netlify · Stripe · Resend · Google Calendar APIs
+
+[View project details](https://kaymade.github.io/projects.html)
 
 ---
 
-## Tech Stack
+### History Heroes
 
-### Core Front-End
+Collaborative full-stack application developed during the freeCodeCamp Summer 2026 cohort.
 
-![HTML5](https://img.shields.io/badge/HTML5-241929?style=for-the-badge&logo=html5&logoColor=F696B3)
-![CSS3](https://img.shields.io/badge/CSS3-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
+I served as team lead and developer, working across a React/TypeScript frontend and Node.js/TypeScript backend architecture. My work included implementation planning, responsive UI, application behavior, testing, pull-request review, issue decomposition, and coordinating development across a multi-person team.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Node.js · NestJS · Vitest · Git/GitHub
+
+[View project details](https://kaymade.github.io/projects.html)
+
+---
+
+### Open-Source Obsidian Themes
+
+I design and maintain published themes for Obsidian, including **Alice Velvet**, **Blue Ribbon**, and **cosmic**.
+
+The themes are distributed through Obsidian's community ecosystem and include coordinated light and dark modes, responsive interfaces, accessibility considerations, custom layouts, reduced-motion support, and extensive Style Settings customization.
+
+This work has given me experience maintaining software for users beyond my own development environment, responding to compatibility concerns, and building flexible design systems across a large existing interface.
+
+**Stack:** CSS · Obsidian · Style Settings · Git/GitHub
+
+[View cosmic](https://github.com/kaymade/cosmic)
+
+---
+
+## Stack
+
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-DD1440?style=for-the-badge&logo=javascript&logoColor=E5E6E1)
 ![TypeScript](https://img.shields.io/badge/TypeScript-840B2A?style=for-the-badge&logo=typescript&logoColor=E5E6E1)
+![HTML5](https://img.shields.io/badge/HTML5-241929?style=for-the-badge&logo=html5&logoColor=F696B3)
+![CSS3](https://img.shields.io/badge/CSS3-5A4864?style=for-the-badge&logo=css3&logoColor=E5E6E1)
+![SQL](https://img.shields.io/badge/SQL-DD1440?style=for-the-badge&logo=postgresql&logoColor=E5E6E1)
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-241929?style=for-the-badge&logo=react&logoColor=F696B3)
+![Vite](https://img.shields.io/badge/Vite-5A4864?style=for-the-badge&logo=vite&logoColor=E5E6E1)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-DD1440?style=for-the-badge&logo=tailwindcss&logoColor=E5E6E1)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-840B2A?style=for-the-badge&logo=daisyui&logoColor=E5E6E1)
 
-### Database & Back-End
+### Back-End & Data
 
+![Node.js](https://img.shields.io/badge/Node.js-241929?style=for-the-badge&logo=nodedotjs&logoColor=F696B3)
+![NestJS](https://img.shields.io/badge/NestJS-DD1440?style=for-the-badge&logo=nestjs&logoColor=E5E6E1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5A4864?style=for-the-badge&logo=postgresql&logoColor=E5E6E1)
-![Node.js](https://img.shields.io/badge/Node.js-DD1440?style=for-the-badge&logo=nodedotjs&logoColor=E5E6E1)
-![Express](https://img.shields.io/badge/Express-840B2A?style=for-the-badge&logo=express&logoColor=E5E6E1)
+![Supabase](https://img.shields.io/badge/Supabase-840B2A?style=for-the-badge&logo=supabase&logoColor=E5E6E1)
 
-### Tools & Workflow
+### Testing & Tooling
 
-![Git](https://img.shields.io/badge/Git-241929?style=for-the-badge&logo=git&logoColor=F696B3)
-![GitHub](https://img.shields.io/badge/GitHub-5A4864?style=for-the-badge&logo=github&logoColor=E5E6E1)
-![VS Code](https://img.shields.io/badge/VS_Code-DD1440?style=for-the-badge&logo=visualstudiocode&logoColor=E5E6E1)
-![Jest](https://img.shields.io/badge/Jest-840B2A?style=for-the-badge&logo=jest&logoColor=E5E6E1)
-
-### Currently Working With
-
-![Next.js](https://img.shields.io/badge/Next.js-241929?style=for-the-badge&logo=nextdotjs&logoColor=F696B3)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-5A4864?style=for-the-badge&logo=testinglibrary&logoColor=E5E6E1)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-DD1440?style=for-the-badge&logo=githubpages&logoColor=E5E6E1)
+![Vitest](https://img.shields.io/badge/Vitest-241929?style=for-the-badge&logo=vitest&logoColor=F696B3)
+![Jest](https://img.shields.io/badge/Jest-5A4864?style=for-the-badge&logo=jest&logoColor=E5E6E1)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-DD1440?style=for-the-badge&logo=testinglibrary&logoColor=E5E6E1)
+![Git](https://img.shields.io/badge/Git-840B2A?style=for-the-badge&logo=git&logoColor=E5E6E1)
+![GitHub](https://img.shields.io/badge/GitHub-241929?style=for-the-badge&logo=github&logoColor=F696B3)
+![Docker](https://img.shields.io/badge/Docker-5A4864?style=for-the-badge&logo=docker&logoColor=E5E6E1)
+![Netlify](https://img.shields.io/badge/Netlify-DD1440?style=for-the-badge&logo=netlify&logoColor=E5E6E1)
 
 ---
 
-## Project Style
+## Leadership & Community
 
-<pre>
-Creative but functional
-Playful but structured
-Design-forward but technically grounded
-Personal but polished
-Experimental but intentional
-</pre>
+I founded **Syntax Studio**, a programming community focused on collaborative learning, project building, technical troubleshooting, and peer support.
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaymade&hide_border=true&background=241929&ring=DD1440&fire=F696B3&currStreakLabel=F696B3&sideLabels=E5E6E1&dates=E5E6E1&sideNums=E5E6E1&currStreakNum=E5E6E1" />
-
-</div>
-
----
-
-## Syntax Studio
-
-Syntax Studio is a programming & coding community focused on learning, project building, resource sharing, and progress over perfection.
-
-The goal is to create a space where people can ask questions, share projects, find resources, and keep going even when learning code feels confusing.
-
-<pre>
-Community Projects
-Study Support
-Project Feedback
-Resource Sharing
-Question Help
-Portfolio Building
-Progress Check-Ins
-</pre>
+I've also led development work in collaborative environments, including coordinating requirements, breaking larger features into actionable issues, reviewing pull requests, helping contributors work through implementation problems, and balancing project scope against delivery requirements.
 
 ---
 
@@ -176,12 +152,12 @@ Progress Check-Ins
 
 <div align="center">
 
-<a href="https://kaymade.github.io">
+<a href="https://kaymade.github.io/">
   <img src="https://img.shields.io/badge/portfolio-241929?style=for-the-badge&logo=githubpages&logoColor=F696B3" />
 </a>
 
-<a href="https://kaymade.github.io/resource-library">
-  <img src="https://img.shields.io/badge/resource_library-840B2A?style=for-the-badge&logo=bookstack&logoColor=E5E6E1" />
+<a href="https://www.linkedin.com/in/kirsten-s-h-4459b427b">
+  <img src="https://img.shields.io/badge/linkedin-5A4864?style=for-the-badge&logo=linkedin&logoColor=E5E6E1" />
 </a>
 
 <a href="https://kaymade.substack.com/">
@@ -189,11 +165,7 @@ Progress Check-Ins
 </a>
 
 <a href="https://discord.gg/PZh2z5Vwaw">
-  <img src="https://img.shields.io/badge/syntax_studio-5A4864?style=for-the-badge&logo=discord&logoColor=E5E6E1" />
-</a>
-
-<a href="https://www.instagram.com/kaymade.dev/">
-  <img src="https://img.shields.io/badge/@kaymade.dev-241929?style=for-the-badge&logo=instagram&logoColor=F696B3" />
+  <img src="https://img.shields.io/badge/syntax_studio-840B2A?style=for-the-badge&logo=discord&logoColor=E5E6E1" />
 </a>
 
 </div>
