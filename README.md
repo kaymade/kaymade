@@ -109,5 +109,3 @@ My team experience includes breaking larger features into actionable issues, rev
 <img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:241929,50:840B2A,100:DD1440&section=footer&text=building%20one%20project%20at%20a%20time&fontColor=E5E6E1&fontSize=22" alt="Building one project at a time" />
 
 </div>
-
-</div>
